@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/sitemap.xml
