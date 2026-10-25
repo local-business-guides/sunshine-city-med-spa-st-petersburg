@@ -23,6 +23,9 @@
 - [Medical spa St. Petersburg visit preparation guide](https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/medical-spa-st-petersburg/): Medical spa St. Petersburg visit planning made easier. Learn what to bring and discuss at Sunshine City Med Spa in St. Petersburg.
 - [How to compare your best med spa options](https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/best-med-spa/): Compare best med spa options in St. Petersburg with practical questions about provider fit, natural appearance, and clear treatment planning.
 
+## Newsroom
+- [Sunshine City Med Spa Releases St. Petersburg Guide](https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/news/2026-10-25-sunshine-city-med-spa-releases-st-petersburg-guide/): Sunshine City Med Spa has published a guide and related media about med spa care and aesthetic provider Mandy in St. Petersburg. (2026-10-25)
+
 ## Pages
 - [Med Spa in St. Petersburg, Florida](https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/): Explore a personalized approach to your skin and aesthetic goals in St. Petersburg, with your natural appearance in mind. Call +1727-344-9201.
 - [About Sunshine City Med Spa and Contact](https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/about/): About Sunshine City Med Spa, St. Petersburg.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/sunshine-city-med-spa-st-petersburg/news/rss.xml)
 - [Main resource site](https://sunshine-city-med-spa-boutique.localwebsites.chatgpt.site)
